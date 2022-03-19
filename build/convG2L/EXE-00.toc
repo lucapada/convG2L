@@ -50,7 +50,7 @@
  [],
  False,
  False,
- 1647686202,
+ 1647687227,
  [('run.exe',
    'c:\\users\\lucap\\pycharmprojects\\prova\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
