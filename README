@@ -1,0 +1,6 @@
+# ConvG2L
+
+Convertitore di coordinate da sistema geocentrico a locale.
+
+convG2L.py contiene il codice sorgente
+in dist/convG2L.exe c'è l'eseguibile
